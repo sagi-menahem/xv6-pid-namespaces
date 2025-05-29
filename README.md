@@ -68,7 +68,6 @@ Key aspects of the implementation include:
 * `proc.c`: Process management code.
 * `ps.c`: Source code for the `ps` command.
 * `Makefile`: Build file for xv6.
-* `Task 2.pdf`: The original assignment instructions (in Hebrew).
 * `original xv6-1.zip`: The original xv6 source code provided for the assignment.
 
 ##   Author
